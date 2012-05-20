@@ -4,11 +4,11 @@ php db.php
 
 Simple example (fetchAll)
 php example1.php
-[{"uid":0,"0":0,"name":"Gonzalo","1":"Gonzalo","surname":"Ayuso","2":"Ayuso"},{"uid":1,"0":1,"name":"Hans","1":"Hans","surname":"Solo","2":"Solo"},{"uid":2,"0":2,"name":"Luke","1":"Luke","surname":"Skywalker","2":"Skywalker"}]gonzalo@gnzl:~/borrame$
+[{"uid":0,"0":0,"name":"Gonzalo","1":"Gonzalo","surname":"Ayuso","2":"Ayuso"},{"uid":1,"0":1,"name":"Hans","1":"Hans","surname":"Solo","2":"Solo"},{"uid":2,"0":2,"name":"Luke","1":"Luke","surname":"Skywalker","2":"Skywalker"}]
 
 We parse the SQL and create a new statement
 php example2.php
 
 We execute our prepared statement
 php example3.php
-[{"uid":0,"0":0,"name":"Gonzalo","1":"Gonzalo","surname":"Ayuso","2":"Ayuso"},{"uid":1,"0":1,"name":"Hans","1":"Hans","surname":"Solo","2":"Solo"},{"uid":2,"0":2,"name":"Luke","1":"Luke","surname":"Skywalker","2":"Skywalker"}]gonzalo@gnzl:~/bor
+[{"uid":0,"0":0,"name":"Gonzalo","1":"Gonzalo","surname":"Ayuso","2":"Ayuso"},{"uid":1,"0":1,"name":"Hans","1":"Hans","surname":"Solo","2":"Solo"},{"uid":2,"0":2,"name":"Luke","1":"Luke","surname":"Skywalker","2":"Skywalker"}]
